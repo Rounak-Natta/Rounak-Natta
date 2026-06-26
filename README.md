@@ -1,55 +1,58 @@
-# Rounak Natta  
-### Founder • Full-Stack Engineer • Backend Systems Builder
+# 👋 Hi, I'm Rounak Natta
 
-Building scalable SaaS products used by real businesses.  
-I design systems, write production code, deploy to cloud, and scale.
+**Founder · Full‑Stack Engineer · Backend Systems Architect**
 
-Currently building and operating **Kitchen Diaries** — a multi-tenant Restaurant Management SaaS serving 10+ active restaurant clients.
+I build production‑grade SaaS platforms from ideation to scale. I architect multi‑tenant backends, design API‑first systems, and own the entire infrastructure lifecycle — code, cloud, deployment, and performance.
 
----
-
-## What I Do
-
-- Architect scalable backend systems
-- Design multi-tenant SaaS platforms
-- Build API-first products
-- Optimize performance under real-world load
-- Deploy & manage production infrastructure
-- Own products end-to-end (idea → revenue → scale)
+🚀 Currently scaling **Kitchen Diaries** — a multi‑tenant Restaurant Management SaaS serving **10+ active businesses** in real‑world kitchens.
 
 ---
 
-## Core Stack
+## 🧰 What I Do
 
-**Languages**  
-JavaScript • TypeScript • Python • SQL  
-
-**Frontend**  
-React.js • Next.js • Redux Toolkit • Tailwind CSS  
-
-**Backend**  
-Node.js • Express.js • REST APIs • JWT • RBAC  
-
-**Databases**  
-PostgreSQL • MongoDB • Redis • SQLite  
-
-**Cloud & DevOps**  
-AWS (EC2, S3) • Docker • Nginx • CI/CD • Linux  
+- Architect scalable, multi‑tenant backend systems  
+- Build API‑first products with role‑based access control  
+- Optimize performance under real‑world production load  
+- Deploy and manage cloud infrastructure (AWS, Docker, Linux)  
+- Own end‑to‑end product delivery: idea → revenue → scale  
 
 ---
 
-## 🚀 Highlight Project — Kitchen Diaries (SaaS)
+## 🛠️ Tech Stack
 
-A production-grade Restaurant Management POS system.
+| **Category**     | **Technologies** |
+|------------------|------------------|
+| **Languages**    | JavaScript · TypeScript · Python · SQL |
+| **Frontend**     | React · Next.js · Redux Toolkit · Tailwind CSS |
+| **Backend**      | Node.js · Express.js · REST APIs · JWT · RBAC |
+| **Databases**    | PostgreSQL · MongoDB · Redis · SQLite |
+| **DevOps & Cloud** | AWS (EC2, S3) · Docker · Nginx · CI/CD · Linux |
 
-- Multi-tenant architecture
-- 10+ live paying restaurant clients
-- 25+ secure RESTful APIs
-- Offline-first billing with SQLite sync
-- Redis caching for peak-hour performance
-- Role-based access control (RBAC)
-- Dockerized deployment on AWS
-- Real-time operational reliability
+---
 
-This is not a demo project.  
-It runs in real kitchens.
+## 🚀 Featured Project — Kitchen Diaries
+
+> A production‑grade Restaurant Management POS system running in real kitchens.
+
+| **Feature** | **Implementation** |
+|-------------|---------------------|
+| 🏢 **Architecture** | Multi‑tenant design with strict data isolation |
+| 👥 **Scale** | 10+ paying restaurant clients · 25+ secure REST APIs |
+| 📴 **Resilience** | Offline‑first billing with local SQLite sync |
+| ⚡ **Performance** | Redis caching for peak‑hour traffic optimisation |
+| 🔐 **Security** | Granular Role‑Based Access Control (RBAC) |
+| 🐳 **Deployment** | Dockerised microservices deployed on AWS EC2 |
+
+This is not a demo — it's a live, revenue‑generating product that handles real orders every day.
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rounaknatta/)  
+- 🌐 [Portfolio](https://rounak-natta@netlify.app)  
+- 📧 [Email](mailto:nattarounak@gmail.com)  
+
+---
+
+*“Build systems that outlast the hype.”*
